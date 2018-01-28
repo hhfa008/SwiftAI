@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  SwiftAI
+
+  Created by hhfa on 29/01/2018.
+  Copyright © 2018 hhfa. All rights reserved.
+*/
+"ModelDest" = "请选择保存路径";
+
+"JSONSrc" = "请选择JSON路径";
+"ClassName" = "类名";

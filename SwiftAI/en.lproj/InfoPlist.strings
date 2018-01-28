@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  SwiftAI
+
+  Created by hhfa on 29/01/2018.
+  Copyright © 2018 hhfa. All rights reserved.
+*/
+
+"JSONSrc" = "Please Select JSON Path";
+
+"ModelDest" = "Please Select Save Path";
