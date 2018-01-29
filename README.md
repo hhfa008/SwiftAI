@@ -5,11 +5,15 @@ SwiftAI, write Swift code smart. SwiftAI can generate Model class from JSON now.
 
 ![Usage](image/SwiftAIApp.png)
 
-# Xcode extension
+# Xcode Extension
+## JSON from ClipBoard
+![Usage](image/SwiftAIXCodeExtensionClipBoard.gif)
 
-![Usage](image/SwiftAIXcodeExtension.png)
+## JSON in XCode
 ![Usage](image/SwiftAIXCodeExtension.gif)
-![Usage](SwiftAIXCodeExtensionClipBoard.gif)
+
+# Xcode Extension Setting
+![Usage](image/SwiftAIXcodeExtension.png)
 
 
 
