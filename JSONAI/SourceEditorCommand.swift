@@ -19,7 +19,7 @@ class SourceEditorCommand: NSObject, XCSourceEditorCommand {
         // match clipped text
         let match = xTextMatcher.match(selection: range, invocation: invocation, options: .selected)
 
-        let endLineIndex = range.end.line
+        let endLineIndex = range.end.line + 2
         let jsonstr = match.text
         
        let baseClass =  invocation.commandIdentifier
