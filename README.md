@@ -1,5 +1,5 @@
 # SwiftAI
-SwiftAI, write Swift code smart. SwiftAI can generate Model class from JSON now. More features will be add.
+SwiftAI, write Swift code smart. SwiftAI can generate Model class  from JSON now. Codable and HandyJSON is supported. More features will be add.
 
 # App
 
@@ -14,6 +14,5 @@ SwiftAI, write Swift code smart. SwiftAI can generate Model class from JSON now.
 
 # Xcode Extension Setting
 ![Usage](image/SwiftAIXcodeExtension.png)
-
 
 
